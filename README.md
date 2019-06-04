@@ -14,4 +14,3 @@ Write bot using
 - [ ] GalaxyScript (SC2 Galaxy Editor)
 - [ ] SC2API using Python
 - [ ] SC2API using C++
-- [ ] AI neural network + training data
